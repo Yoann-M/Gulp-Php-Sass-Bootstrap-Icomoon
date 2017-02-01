@@ -53,7 +53,7 @@ Dependencies included in the project
 ------------------------------------
 
 * Bootstrap Sass V3
-* Font Awesome
+* Icomoon
 
 
 APP STRUCTURE
