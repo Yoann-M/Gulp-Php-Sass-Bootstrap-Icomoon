@@ -1,4 +1,4 @@
-GULP SASS BOOTSTRAP 3 FONT AWESOME | DOCUMENTATION
+GULP SASS BOOTSTRAP 3 ICOMOON | DOCUMENTATION
 ==================================================
 
 Installation 
